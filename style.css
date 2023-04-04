@@ -1,5 +1,6 @@
 body {
     background-color: antiquewhite;
+
 }
 
 .recipe {
@@ -8,8 +9,13 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
-.header {
+.homepage-header {
     color: rgb(50, 135, 177);
     text-align: center;
     font-family:'Times New Roman', Times, serif;
+}
+
+.choco-header {
+    text-align: center;
+    color: forestgreen;
 }
